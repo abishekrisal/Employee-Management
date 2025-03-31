@@ -1,0 +1,14 @@
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\obj\Debug\EmployeeManagement.Properties.Resources.resources
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.GenerateResource.cache
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\obj\Debug\EmployeeManagement.LogOut.resources
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\obj\Debug\EmployeeManagement.Attendance.resources
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\obj\Debug\EmployeeManagement.LogIn.resources
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\obj\Debug\EmployeeManagement.NameSelection.resources
+C:\Users\abhis\OneDrive\Desktop\Programme\Project\Employee Project\Employee Login\EmployeeManagement\obj\Debug\EmployeeManagement.EmployeeRecord.resources
