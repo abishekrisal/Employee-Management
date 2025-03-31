@@ -1,1 +1,12 @@
+Employee Attendance app goals
+1) Create records of employee and store their information.
+2) Allow daily Log-in and log-out.
+3) Allow admins to adjust attendance.
+4) Check weekly hours of staff.
+5) Add new employee.
+6) Reporting functionality. 
 
+Front page of app will show current employee record with the link to other forms.
+Everything will be accessed via main page. There will be admin users who will have added functionality. 
+Front page will also show current record of employee who are logged-in.
+Rostering system not included.
